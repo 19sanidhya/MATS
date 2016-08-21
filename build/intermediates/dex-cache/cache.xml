@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_c8776fc71987700b031b41e3551f86741c49c2c7/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="774fdc33dafde47566c0f381de721f9cecfc3d22">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_04f3b03798d1595c1a89ea1b444b9087674f430a/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_dee720592119c7d73bfc4b95e21940fa34afc1f4/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_c843361630d882cd90d4ef82a3a74f3be63205fc/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_34cb00caaf89c461366fe32d7e3fef96609934ce/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_3079dda3b46fae06df1922cacc79b8b0401a6b87/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_36a74b0dcdc88bf4c9d98dc01f670df989886a37/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_08864ebebbd44e6da26ed14e9488c2a180640bf4/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="847fb515266f489e8890e74a9911a4b7d6a953bd">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0557049e8d1dede7add0b153d05182192486ea0d/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_ef276c9c51b5aa2e890b81975d92d857eb9945ee/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_a573f1ff4852c31a17e0e0fc39f2a549f84501d4/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_48aa0b63253a6e946b50c8b979210eff03f45875/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_eac64ad10b670f6bdc5048ec1eb3d2e8cf76156c/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="98d42cf6683ad232794e2945b602ecba3cd6b97d">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-leanback-v17-24.0.0_d25f15a82f85f554ed3decb6b4501079ab125829/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_8dccfdd863fadbbcdfed72b0bdd2378d882a56ff/classes.dex" />
+    </item>
+    <item
+        jar="/home/sanidhya/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/sanidhya/AndroidStudioProjects/MATS/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_f854169d83aa90324dd8aa5529e714b48d40e993/classes.dex" />
+    </item>
+
+</items>

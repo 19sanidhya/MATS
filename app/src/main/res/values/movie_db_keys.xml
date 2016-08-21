@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="TABLE_NAME">MOVIE</string>
+    <string name="ATTRIBUTE_ID">_ID</string>
+    <string name="ATTRIBUTE_TITLE">TITLE</string>
+    <string name="ATTRIBUTE_RUNTIME">runtime</string>
+    <string name="ATTRIBUTE_OVERVIEW">overview</string>
+    <string name="ATTRIBUTE_RELEASE_DATE">release_date</string>
+    <string name="ATTRIBUTE_VOTES_AVERAGE">votes_average</string>
+    <string name="ATTRIBUTE_VOTES">votes</string>
+    <string name="ATTRIBUTE_REVENUE">revenue</string>
+    <string name="ATTRIBUTE_STATUS">status</string>
+    <string name="ATTRIBUTE_IMDB_ID">imdb_id</string>
+    <string name="ATTRIBUTE_POSTER">poster</string>
+    <string name="ATTRIBUTE_BACKDROP">backdrop</string>
+</resources>
